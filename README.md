@@ -1,4 +1,4 @@
-This is a demo for studying
+This is a study demo
 
 Model Performance:
 Training acuracy: 0.89
